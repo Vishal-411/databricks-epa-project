@@ -24,7 +24,9 @@ End-to-end Databricks Lakehouse platform analyzing US county emissions data.
 *Population explains 62% of emission variance (R=0.79)*
 
 ### 4. Data Governance
-![Unity Catalog] <img width="311" height="100" alt="Screenshot 2026-02-08 at 4 18 25 PM" src="https://github.com/user-attachments/assets/71f6c876-54c3-428d-8ae7-d28d8bb32815" /><img width="1007" height="302" alt="Screenshot 2026-02-08 at 4 19 17 PM" src="https://github.com/user-attachments/assets/ccdc8898-f6bc-4f60-9457-27cf591df8e4" />
+![Unity Catalog] <img width="311" height="100" alt="Screenshot 2026-02-08 at 4 18 25 PM" src="https://github.com/user-attachments/assets/71f6c876-54c3-428d-8ae7-d28d8bb32815" 
+                  /><img width="848" height="299" alt="Screenshot 2026-02-08 at 4 30 28 PM" src="https://github.com/user-attachments/assets/7c6f4993-d1a5-4c32-bc2c-1fbbac4243d6" />
+
 <img width="1008" height="235" alt="Screenshot 2026-02-08 at 4 19 38 PM" src="https://github.com/user-attachments/assets/a316806b-12b3-413d-9454-e93c162cc118" />
 
 
