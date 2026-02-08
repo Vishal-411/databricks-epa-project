@@ -9,7 +9,8 @@ End-to-end Databricks Lakehouse platform analyzing US county emissions data.
 ## Key Components
 
 ### 1. 📊 Interactive Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot])<img width="1540" height="730" alt="Screenshot 2026-02-04 at 5 49 41 PM" src="https://github.com/user-attachments/assets/3e5f1e15-30bb-4eed-856d-b55cd7c712ca" />
+
 *SQL dashboard with US map, top emitters, filters*
 
 ### 2. 🐍 Python Data Pipeline  
